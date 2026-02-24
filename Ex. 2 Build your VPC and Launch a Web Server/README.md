@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: A CHANDHNA
+* **Register Number**: 212224040051
+* **Date of Submission**: 24/02/2026
 
 ---
 
@@ -99,21 +99,25 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/d6377f56-e2a0-4860-a6f3-4e2b2181f0da" />
 
----
+<img width="1600" height="845" alt="image" src="https://github.com/user-attachments/assets/a293fcc9-bbe3-4df9-812a-038426115294" />
+
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/5adc5b18-75a6-43b0-a7cd-5244f5679447" />
+
+<img width="1600" height="853" alt="image" src="https://github.com/user-attachments/assets/d387b72b-231b-43f8-b6df-cd53b29c065f" />
+
+
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/5aa885fb-b848-4b98-9577-7dff1f914ad7" />
 
----
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="956" height="508" alt="image" src="https://github.com/user-attachments/assets/06a35b55-3d28-4272-8e1a-ec6289163e15" />
 
----
 
 ## Result 
 
