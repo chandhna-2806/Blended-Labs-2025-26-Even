@@ -38,6 +38,7 @@ The objective of this lab is to understand how to design a scalable and highly a
 
 Students review the existing EC2-based application architecture created in previous experiments.
 
+
 ### Task 2: Create a Launch Template
 
 Students create a launch template that defines the EC2 instance configuration including AMI, instance type, security group, and user data.
@@ -72,8 +73,21 @@ Describe step-by-step how you performed this experiment in your own words.
 
 ## Output Screenshots 
 
+![WhatsApp Image 2026-03-19 at 10 10 39 AM](https://github.com/user-attachments/assets/ef7edfef-b874-4ea7-bdb9-0696a9f808dc)
 
----
+![WhatsApp Image 2026-03-19 at 10 17 10 AM](https://github.com/user-attachments/assets/194bf5a2-5963-4aa3-9f0a-4e2092440861)
+
+![WhatsApp Image 2026-03-19 at 10 17 10 AM](https://github.com/user-attachments/assets/511f1d41-0b91-4793-ba5f-a99a119ec8d7)
+
+![WhatsApp Image 2026-03-19 at 10 23 59 AM](https://github.com/user-attachments/assets/ca26a668-1cc2-4fcd-b876-2e6bd91082f5)
+
+![WhatsApp Image 2026-03-19 at 10 26 29 AM](https://github.com/user-attachments/assets/0e9e01a9-714e-4f60-8543-60306a0e8927)
+
+![WhatsApp Image 2026-03-19 at 10 37 10 AM](https://github.com/user-attachments/assets/a0b5e12a-73e6-4c79-b2c2-04dda52ceb3b)
+
+![WhatsApp Image 2026-03-19 at 10 37 54 AM](https://github.com/user-attachments/assets/54a58109-783c-43a4-831b-c196bd9c2b19)
+
+
 
 
 ## Result
